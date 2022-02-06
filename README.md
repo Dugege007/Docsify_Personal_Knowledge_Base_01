@@ -34,15 +34,15 @@
 > [**谷德设计网 - gooood**](https://www.gooood.cn/) | 优秀景观设计案例 | ★★★★★
 > [**花瓣网**](https://huaban.com/) | 景观设计案例/设计素材/激发灵感 | ★★★★☆
 > [**The Oval Partnership**](https://www.ovalpartnership.com/) | 优秀景观设计案例/文案 | ★★★☆☆
-> [**ZOSCAPE**](https://www.zoscape.com/) | 优秀景观设计案例 | 暂无
-> [**Hhlloo**](https://www.la-bang.cn/) | 优秀景观设计案例 | 暂无
-> [**LANDEZINE**](https://landezine.com/) | 优秀景观设计案例 | 暂无
+> [**ZOSCAPE**](https://www.zoscape.com/) | 优秀景观设计案例 | ★★★★☆
+> [**Hhlloo**](https://www.la-bang.cn/) | 优秀景观设计案例 | ★★★★☆
+> [**LANDEZINE**](https://landezine.com/) | 优秀景观设计案例 | ★★★☆☆
 
 #### **✨ 景观设计素材**
 
 > 网站链接|功能特点|注册付费|主观评价
 > ---|:---:|:---:|:---:
-> [**设计导航**](http://hao.shejidaren.com/)
+> [**设计导航**](http://hao.shejidaren.com/) | 设计导航网站 | 免费 | ★★★★★
 > [**知末**](https://www.znzmo.com/) | 设计素材/激发灵感 | 需注册/付费内容 | ★★★★☆
 > [**3DWarehouse**](https://3dwarehouse.sketchup.com/) | Sketchup免费模型素材 | 免费 | ★★★★☆
 > [**人物素材网 - Skalgubbar**](https://skalgubbar.se/) | 效果图人物素材 | 免费 | ★★★★★
@@ -55,8 +55,8 @@
 > ---|:---:|:---:|:---:
 > [**国标图集电子书库**](https://ebook.chinabuilding.com.cn/) | 国标图集电子版下载 | 需注册/付费内容 | ★★★★☆
 > [**土木工程网 - 园林工程**](http://yuanlin.civilcn.com/) | 园林工程技术论坛 | 需注册/付费内容 | ★★★★☆
-> [**中国植物图像库**](http://ppbc.iplant.cn/)
-> [**植物科学数据中心**](https://www.plantplus.cn/)
+> [**中国植物图像库**](http://ppbc.iplant.cn/) | 植物知识 | 免费 | ★★★☆☆
+> [**植物科学数据中心**](https://www.plantplus.cn/) | 植物知识 | 免费 | ★★★☆☆
 
 <!-- tabs:end -->
 
@@ -70,11 +70,11 @@
 
 > 网站链接|功能特点|注册付费|主观评价
 > ---|:---:|:---:|:---:
-> [**在线设计网站 - MasterGo**](https://mastergo.com/)
-> [**在线设计网站 - Canva可画**](https://www.canva.cn/)
-> [**在线PS - 稿定UUPOOP**](https://www.uupoop.com/) | 在线PS/拼图/更多功能 | 需注册 | 暂无
-> [**在线PS - PhotoPea**](https://www.photopea.com)
-> [**LOGO神器 - LogoSC**](https://www.logosc.cn/)
+> [**在线设计网站 - MasterGo**](https://mastergo.com/) | 多人在线设计 | 需注册 | 暂无
+> [**在线设计网站 - Canva可画**](https://www.canva.cn/) | 在线设计/模板 | 需注册 | ★★★☆☆
+> [**在线PS - 稿定UUPOOP**](https://www.uupoop.com/) | 在线PS/拼图/更多功能 | 需注册 | ★★★☆☆
+> [**在线PS - PhotoPea**](https://www.photopea.com) | 在线PS/拼图/更多功能 | 无需注册 | ★★★★☆
+> [**LOGO神器 - LogoSC**](https://www.logosc.cn/) | 在线LOGO设计 | 需注册 | ★★★☆☆
 > 
 
 #### **🖼️ 图片素材库**
@@ -84,20 +84,20 @@
 > [**图片素材库 - Pixabay**](https://pixabay.com/zh/) | 免费正版高清图片素材库 | 免费 | 暂无
 > [**照片素材库 - Unsplash**](https://unsplash.com) | 高分辨率照片 | 可选注册/免费 | ★★★★★
 > [**照片视频素材库 - Pexels**](http://www.pexels.com) | 免费照片视频 | 免费 | 暂无
-> [**视频素材库 - NASA图片**](https://images.nasa.gov)
+> [**照片视频素材库 - NASA**](https://images.nasa.gov) | NASA照片视频库 | 无需注册/免费 | ★★★★★
 > [**插图素材库 - Pinterest**](https://www.pinterest.com/) | 插图分享网站 | 免费/需科学上网 | ★★★★☆
 > [**设计素材库 - MCOOL**](https://www.mcool.com/) | 景观设计案例/设计素材/激发灵感 | 暂无 | ★★★☆☆
-> [**APP图标获取**](http://submit.icoicon.com)
-> [**极简壁纸**](https://bz.zzzmh.cn/)
-> [**Wallpaper Abyss壁纸**](https://wall.alphacoders.com)
-> [**免费透明背景图片素材**](http://pngimg.com/)
-> [**免费PNG图片库**](https://pluspng.com/)
-> [**开源Icons - FeatherIcons**](https://feathericons.com/)
-> [**阿里巴巴矢量图标库**](https://www.iconfont.cn/)
-> [**ICON图标在线下载**](https://www.iconfinder.com/)
-> [**Emoji表情包下载**](https://emojiisland.com/)
-> [**表情包在线网站**](https://fabiaoqing.com/)
-> [**Adobe色卡**](https://color.adobe.com/zh/explore)
+> [**APP图标获取**](http://submit.icoicon.com) | 暂无 | 暂无 | 暂无
+> [**极简壁纸**](https://bz.zzzmh.cn/) | 优质壁纸免费下载 | 无需注册/免费 | ★★★★★
+> [**Wallpaper Abyss壁纸**](https://wall.alphacoders.com) | 优质壁纸免费下载 | 无需注册/免费 | ★★★★★
+> [**免费透明背景图片素材**](http://pngimg.com/) | 优质PNG图片下载 | 无需注册/免费 | ★★★★★
+> [**免费PNG图片库**](https://pluspng.com/) | PNG图片下载 | 无需注册/免费 | ★★★★☆
+> [**开源Icons - FeatherIcons**](https://feathericons.com/) | 开源Icons下载 | 无需注册/免费 | ★★★★☆
+> [**阿里巴巴矢量图标库**](https://www.iconfont.cn/) | Icons分享 | 需注册/免费 | ★★★★★
+> [**ICON图标在线下载**](https://www.iconfinder.com/) | Icons下载 | 可选注册/付费内容 | ★★★★☆
+> [**Emoji表情包下载**](https://emojiisland.com/) | Emoji图片下载 | 可选注册 | ★★★☆☆
+> [**表情包在线网站**](https://fabiaoqing.com/) | 搜索表情/创建表情 | 免费 | ★★★★★
+> [**色卡 - Adobe官方**](https://color.adobe.com/zh/explore) | Adobe色卡分享 | 可选注册 | ★★★☆☆
 
 #### **🎞️ 音视频素材库**
 
@@ -144,6 +144,12 @@
 
 #### **🟧 CAD**
 
+> - [**CAD2014打开后一操作就崩溃**](https://blog.csdn.net/Dugege007/article/details/122803294)
+> - [**CAD保存时，提示 警告 多重从属对象 XXX**](https://blog.csdn.net/Dugege007/article/details/122803428)
+> - [**CAD无法拖入打开文件的解决方法**](https://blog.csdn.net/Dugege007/article/details/122803480)
+> - [**CAD重装时显示已安装**](https://blog.csdn.net/Dugege007/article/details/122803497)
+> - [**关于动态块中属性定义的镜像问题**](https://forums.autodesk.com/t5/autocad-zong-he-tao-lun-qu/zai-kuai-zuo-you-jing-xiang-zhi-hou-you-shen-me-fang-fa-ke-yi-rang-kuai-zhong-shu-xing-ding-yi-de-dui-qi-dian-ye-jing-xiang-ma/m-p/10687188)
+
 待更新...
 
 #### **🟥 Sketchup**
@@ -167,6 +173,10 @@
 ## **🤔 编程学习**
 
 自学编程推荐[**RoadToCoding**](https://www.r2coding.com/)，该网站由B站UP主CodeSheep创建，里面有系统的自学编程路线，强烈推荐。
+
+<p align="justfy">
+<iframe src="//player.bilibili.com/player.html?aid=807058048&bvid=BV1i34y1R7f2&cid=452812984&page=1" scrolling="yes" border="1" weith="850" height="480" frameborder="1" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
+</p>
 
 ---
 
@@ -366,8 +376,8 @@
 
 #### **🤪 电子书**
 
-> 网站链接|功能特点|主观评价
-> ---|:---:|:---:
+> 网站链接|功能特点|注册付费|主观评价
+> ---|:---:|:---:|:---:
 > [**中国县志大全**](http://www.xianzhidaquan.com/)
 > [**去中心化电子书 - LoreFree**](https://ebook2.lorefree.com/)
 
