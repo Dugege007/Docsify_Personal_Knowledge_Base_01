@@ -200,6 +200,20 @@
 <iframe src="//player.bilibili.com/player.html?aid=807058048&bvid=BV1i34y1R7f2&cid=452812984&page=1" scrolling="yes" border="1" weith="850" height="480" frameborder="1" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"> </iframe>
 </p>
 
+<!-- tabs:start -->
+
+#### ** 编程学习网站**
+- [Github](https://github.com/)
+- [StackOverflow](https://stackoverflow.com/)
+- [Leetcode](https://leetcode-cn.com/)
+- [BiliBili](https://www.bilibili.com/)
+- [牛客网](https://www.nowcoder.com/)
+- [PapersWithCode](https://paperswithcode.com/)
+- [W3school](https://www.w3school.com.cn/)
+- [菜鸟教程](https://www.runoob.com/)
+
+<!-- tabs:end -->
+
 ---
 
 ## **📘 在线教程/技术文档**
@@ -310,7 +324,8 @@
 >  - **实用的在线工具网站**
 >  - **人工智能小工具**
 >  - **笔记软件推荐**
-
+>  - **看到这里你就赚了，[《良心到难以置信的网站推荐》](https://xiangjianan.gitee.io/lks/)，由B站UP主推荐的网站，良心到难以置信！**
+> 
 ---
 
 ## **🔋 学习资源**
@@ -497,6 +512,8 @@
 ---
 
 <!-- slide:break -->
+
+![小海豹01.jpg](https://s2.thingpic.com/images/uY/NroWYrBZA1QMX2Rsbz8n19zy.jpeg)
 
 **评论请点击下方图片登陆社交账号，留下您的宝贵建议**
 
