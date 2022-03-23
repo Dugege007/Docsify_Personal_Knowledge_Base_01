@@ -168,21 +168,32 @@
 
 #### **🟧 CAD**
 
-> - [**CAD2014打开后一操作就崩溃**](https://blog.csdn.net/Dugege007/article/details/122803294)
-> - [**CAD保存时，提示 警告 多重从属对象 XXX**](https://blog.csdn.net/Dugege007/article/details/122803428)
-> - [**CAD无法拖入打开文件的解决方法**](https://blog.csdn.net/Dugege007/article/details/122803480)
-> - [**CAD重装时显示已安装**](https://blog.csdn.net/Dugege007/article/details/122803497)
-> - [**关于动态块中属性定义的镜像问题**](https://forums.autodesk.com/t5/autocad-zong-he-tao-lun-qu/zai-kuai-zuo-you-jing-xiang-zhi-hou-you-shen-me-fang-fa-ke-yi-rang-kuai-zhong-shu-xing-ding-yi-de-dui-qi-dian-ye-jing-xiang-ma/m-p/10687188)
+> - [**故障排除 - CAD2014打开后一操作就崩溃**](https://blog.csdn.net/Dugege007/article/details/122803294)
+> - [**故障排除 - CAD保存时，提示 警告 多重从属对象 XXX**](https://blog.csdn.net/Dugege007/article/details/122803428)
+> - [**故障排除 - CAD无法拖入打开文件的解决方法**](https://blog.csdn.net/Dugege007/article/details/122803480)
+> - [**故障排除 - CAD重装时显示已安装**](https://blog.csdn.net/Dugege007/article/details/122803497)
+> - [**实用技巧 - 关于动态块中属性定义的镜像问题**](https://forums.autodesk.com/t5/autocad-zong-he-tao-lun-qu/zai-kuai-zuo-you-jing-xiang-zhi-hou-you-shen-me-fang-fa-ke-yi-rang-kuai-zhong-shu-xing-ding-yi-de-dui-qi-dian-ye-jing-xiang-ma/m-p/10687188)
 
 待更新...
 
 #### **🟥 Sketchup**
 
+> - [**景观设计常用的SU插件推荐**](https://blog.csdn.net/Dugege007/article/details/123342934?spm=1001.2014.3001.5501)
+
 待更新...
 
 #### **🟪 Lumion**
 
+
 待更新...
+
+#### **🟪 Adobe系列**
+
+> - [**如何用PS制作GIF**](https://blog.csdn.net/Dugege007/article/details/123321213)
+> - [**如何用PR制作GIF**](https://blog.csdn.net/Dugege007/article/details/123321041)
+
+待更新...
+
 
 <!-- tabs:end -->
 
