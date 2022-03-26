@@ -76,7 +76,7 @@
 > [**在线PS - PhotoPea**](https://www.photopea.com) | 在线PS/拼图/更多功能 | ★★★★☆
 > [**LOGO神器 - LogoSC**](https://www.logosc.cn/) | 在线LOGO设计 | ★★★☆☆
 
-#### **🎨 设计素材聚合平台 <span class="tab-badge">New!</span>**
+#### **🎨 设计素材聚合平台**
 
 > 网站链接|功能特点|主观评价
 > ---|:---:|:---:
@@ -84,13 +84,16 @@
 > [**模库网 - MCOOL**](https://www.mcool.com/) | 景观设计案例/设计素材/激发灵感 | ★★★☆☆
 > [**站酷 - ZCOOL**](https://www.zcool.com.cn/) | 设计素材 | ★★★☆☆
 
-#### **🖼️ 图片素材库**
+#### **🖼️ 图片素材库 <span class="tab-badge">New!</span>**
 
 > 网站链接|功能特点|主观评价
 > ---|:---:|:---:
 > [**图片素材库 - Pixabay**](https://pixabay.com/zh/) | 免费正版高清图片素材库 | 暂无
 > [**照片素材库 - Unsplash**](https://unsplash.com) | 高分辨率照片 | ★★★★★
+> [**照片素材库 - StreetWill**](http://streetwill.co/) | 以街景为主的照片素材库 | ★★★★☆
+> [**照片素材库 - Gratisography**](https://gratisography.com/) | 脑洞大开的照片素材网站，灵感来源 | ★★★★☆
 > [**照片视频素材库 - Pexels**](http://www.pexels.com) | 免费照片视频 | 暂无
+> [**照片视频素材库 - Pixabay**](https://pixabay.com/) | 多媒体素材网站，内容多样 | ★★★★☆
 > [**照片视频素材库 - NASA**](https://images.nasa.gov) | NASA照片视频库 | ★★★★★
 > [**插图素材库 - Pinterest**](https://www.pinterest.com/) | 插图分享网站 | ★★★★☆
 > [**电影标题 - MovieTitle**](https://annyas.com/screenshots/) | 电影标题画面收集 | ★★★★★
@@ -102,20 +105,32 @@
 > [**ICON图标在线下载**](https://www.iconfinder.com/) | Icons下载 | ★★★★☆
 > [**APP图标获取**](http://submit.icoicon.com) | 暂无 | 暂无
 
-#### **🌈 配色网站**
+#### **🌈 配色网站 <span class="tab-badge">New!</span>**
 > 网站链接|功能特点|主观评价
 > ---|:---:|:---:
-> [**ColorHunt**](https://colorhunt.co/) | 暂无 | 暂无
-> [**UIGradients**](https://uigradients.com/) | 暂无 | 暂无
-> [**Coolors**](https://coolors.co/) | 暂无 | 暂无
-> [**AdobeColor**](https://color.adobe.com/zh/explore) | Adobe色卡分享 | ★★★☆☆
+> [**中国色**](http://zhongguose.com/) | 中文命名的色彩搭配，优雅的界面，妙 | ★★★★★
+> [**Couleur.io**](https://couleur.io/) | 同色系色彩搭配，有界面预览 | ★★★★☆
+> [**ColorSpace**](https://mycolor.space/) | 不要再浪费时间去寻找完美的调色板了，只要输入一个颜色，网站自动展示效果 | ★★★★☆
+> [**HyperColor**](https://hypercolor.dev/) | 不同风格的炫酷渐变色，复制粘贴，省时省力 | ★★★★☆
+> [**BrandColors**](http://brandcolors.net/) | 品牌色，搜罗全球各大品牌的配色 | ★★★★☆
+> [**Colorable**](https://colorable.jxnblk.com/) | 字体与背景配色，简单直观 | ★★★☆☆
+> [**ColorHunt**](https://colorhunt.co/) | 色彩搭配论坛 | ★★★☆☆
+> [**UIGradients**](https://uigradients.com/) | 简单优雅的渐变色 | ★★★☆☆
+> [**Coolors**](https://coolors.co/) | 超快速调色板生成器，随机功能专治选择困难症 | ★★★☆☆
+> [**AdobeColor**](https://color.adobe.com/zh/explore) | Adobe色卡分享论坛 | ★★☆☆☆
 
-#### **🎞️ 音视频素材库**
+#### **🎞️ 音视频素材库 <span class="tab-badge">New!</span>**
 
 > 网站链接|功能特点|主观评价
 > ---|:---:|:---:
-> [**简视频**](https://www.vlogquan.com/) | 暂无 | 暂无
-> [**免版权音频网 - FreePD**](https://freepd.com/) | 暂无 | 暂无
+> [**简视频**](https://www.vlogquan.com/) | 视频创作导航网站 | ★★★★★
+> [**Pixabay**](https://pixabay.com/) | 多媒体素材网站，内容多样 | ★★★★☆
+> [**Mazwai**](https://mazwai.com/) | 免版权视频素材网站 | ★★★★☆
+> [**Videezy**](https://www.videezy.com/) | 视频素材网站，内容多样 | ★★★☆☆
+> [**Videvo**](https://www.videvo.net/) | 视频素材网站 | ★★★☆☆
+> [**Bensound**](https://www.bensound.com/) | 音频素材网站 | 暂无
+> [**Adobe音效素材库**](https://www.adobe.com/products/audition/offers/AdobeAuditionDLCSFX.html) | 音频素材网站 | 暂无
+> [**FreePD**](https://freepd.com/) | 免版权音频网 | 暂无
 > [**免版权独立音乐网 - AudioLibrary**](https://www.audiolibrary.com.co/) | 暂无 | 暂无
 > [**VIP音乐下载**](http://music.zhuolin.wang/) | VIP音乐下载 | 暂无
 > [**疯狂音乐搜索**](https://music.myepoch.cn/) | 音乐搜索聚合网站 | 暂无
@@ -428,14 +443,16 @@
 > [**你的二次元少女化形象**](https://shindanmaker.com/162207) | 你的二次元少女化形象 | ★★★☆☆
 > [**押韵助手**](https://yayun.la/) | 押韵字词查询/AI作词 | ★★★☆☆
 
-#### **📖 电子书**
+#### **📖 电子书 <span class="tab-badge">New!</span>**
 
 > 网站链接|功能特点|主观评价
 > ---|:---:|:---:
+> [**Z-Library**](https://zh.z-lib.org/) | 全球最大的电子图书馆？ | 暂无
 > [**中国县志大全**](http://www.xianzhidaquan.com/) | 暂无 | 暂无
 > [**去中心化电子书 - LoreFree**](https://ebook2.lorefree.com/) | 暂无 | 暂无
 
 #### **🔊 有声作品 <span class="tab-badge">New!</span>**
+
 > - 三好坏男孩（喜马拉雅、荔枝、网易云等平台）。杂谈电台，几个主播声音好听，邀请的嘉宾也有很多故事。每期一个主题，包括人生、旅行、情感、玄学等内容。每期一小时以上，目前出了300多期，可以听很久，强烈推荐！
 > - 三好坏男孩私房课（微信公众号“三好私房课”）。付费收听，节目讨论的更加深入的内容，包括行业内幕、传奇经历、灵异事件、都市传说、情感故事等，强烈推荐！
 > - 《三体》广播剧（喜马拉雅）。质量相当高的广播剧，体会国内顶尖科幻作品的震撼。
@@ -540,13 +557,18 @@
 
 ## *最近更新*
 
+### 20220326更新
+> - **设计相关 - 其他设计网站 - 图片素材库** 标签页增加网站推荐
+> - **设计相关 - 其他设计网站 - 配色网站** 标签页增加网站推荐
+> - **设计相关 - 其他设计网站 - 音视频素材库** 标签页增加网站推荐
+> - **宝藏湾 - 摸鱼必备 - 电子书** 标签页增加网站推荐
+
 ### 20220211更新
 > - 增加标签页 **宝藏湾 - 摸鱼必备 - 有声作品**
 
 ### 20220209更新
 > - **宝藏湾 - 高效工作 - 灵感/创意** 标签页增加网站推荐
 > - **设计相关 - 其他设计 - 设计素材聚合平台** 标签页增加网站推荐
-> - 以上网站由MGF提供
 
 ![小海豹01.jpg](https://s2.thingpic.com/images/uY/NroWYrBZA1QMX2Rsbz8n19zy.jpeg)
 
